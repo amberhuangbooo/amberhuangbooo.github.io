@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: A space for discovering science and life.
 
 profile:
   align: right
@@ -10,16 +10,16 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>Huairou District, Beijing, China</p>
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: flase # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+欢迎访问[Discovery](https://amberhuangbooo.github.io/)!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+本网站是我学术与研究成果的展示与分享平台，内容涵盖我在技术开发、数据分析、科研探索等方面的工作与思考。在此，您可以浏览我近期的研究项目、发表的文章以及对当前科技发展趋势的分析。
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+如有合作需求、研究探讨，通过Gmail（amber0628h@gmail.com）联系我。
